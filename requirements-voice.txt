@@ -1,0 +1,2 @@
+# Optional: microphone + online recognition only. Core typed-input CLI uses stdlib.
+SpeechRecognition[audio]==3.17.0
